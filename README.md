@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lizaray05
+- 👀 I’m interested in artificial intellegence 
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate on a game project
+- 📫 How to reach me: through discord or github
